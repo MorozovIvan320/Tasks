@@ -1,0 +1,7 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\consoleT_12\consoleT_12\bin\Debug\consoleT_12.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\consoleT_12\consoleT_12\bin\Debug\consoleT_12.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\consoleT_12\consoleT_12\bin\Debug\consoleT_12.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\consoleT_12\consoleT_12\obj\Debug\consoleT_12.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\consoleT_12\consoleT_12\obj\Debug\consoleT_12.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\consoleT_12\consoleT_12\obj\Debug\consoleT_12.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\consoleT_12\consoleT_12\obj\Debug\consoleT_12.pdb
