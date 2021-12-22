@@ -1,0 +1,7 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\conosoleT_11\conosoleT_11\bin\Debug\conosoleT_11.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\conosoleT_11\conosoleT_11\bin\Debug\conosoleT_11.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\conosoleT_11\conosoleT_11\bin\Debug\conosoleT_11.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\conosoleT_11\conosoleT_11\obj\Debug\conosoleT_11.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\conosoleT_11\conosoleT_11\obj\Debug\conosoleT_11.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\conosoleT_11\conosoleT_11\obj\Debug\conosoleT_11.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\IvanMoroz\conosoleT_11\conosoleT_11\obj\Debug\conosoleT_11.pdb
